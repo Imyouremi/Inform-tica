@@ -23,7 +23,6 @@ Software utilizado: Canva
 ![Captura de tela 2024-09-19 181044](https://github.com/user-attachments/assets/8039b894-7d5c-4dc2-99b5-3d304615fdd4)
 ![Captura de tela 2024-09-19 181105](https://github.com/user-attachments/assets/8c1d9ae3-d310-444b-aed9-0aa1fff05f67)
 
-# Software utilizado: Excel
 
 
 
