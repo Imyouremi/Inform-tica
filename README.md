@@ -28,17 +28,25 @@ Software utilizado: Canva
 ### Paises e Bandeiras 
 ![Captura de tela 2024-11-28 180630](https://github.com/user-attachments/assets/702c4d89-0f1a-46f2-b71d-775f717e73da)
 
+###  Visualização do dashboard [clique aqui](https://app.powerbi.com/groups/me/reports/408ae0d9-5ed0-4e17-946c-a29747b643b8?experience=power-bi)
+
 ##  2º Atividade 
 ### Dados abertos: Exames Laboratoriais 
 ![Captura de tela 2024-11-28 175504](https://github.com/user-attachments/assets/38a1f1ec-64c6-47eb-8911-fa3cc8fdb0f4)
+ 
+###  Visualização do dashboard [clique aqui](https://app.powerbi.com/groups/me/reports/8e486a2b-9c96-428d-b620-06591e5b2ed1?experience=power-bi)
 
 ##  3º Atividade
 ### Dados abertos: Exames Laboratoriais (Fórmulas DAX e KPI)
 ![Captura de tela 2024-11-28 175914](https://github.com/user-attachments/assets/af1e244d-2026-4ca8-94db-7e9677b62ade)
 
+###  Visualização do dashboard [clique aqui](https://app.powerbi.com/groups/me/reports/6315aa67-53dd-4508-b91d-00986281bd36?experience=power-bi)
+
 ##  4º Atividade
 ### Dados abertos: Exames Laboratoriais (Fórmulas DAX e KPI)
 ![Captura de tela 2024-11-28 180140](https://github.com/user-attachments/assets/392fee7f-da80-4a62-afd8-01cd622f655d)
+
+###  Visualização do dashboard [clique aqui](https://app.powerbi.com/groups/me/reports/66ed0846-2f41-48ab-9872-9abbe5e6ae4b?experience=power-bi)
 
 # Power APPS
 
