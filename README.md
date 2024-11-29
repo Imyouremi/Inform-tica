@@ -52,7 +52,7 @@ Software utilizado: Canva
 ![Captura de tela 2024-11-29 174657](https://github.com/user-attachments/assets/42c59de4-a0f2-4980-aa52-b8a16f6cd264)
 ![Captura de tela 2024-11-29 174713](https://github.com/user-attachments/assets/1080a229-3bd2-4ee7-8ef1-24cdf2a33d1c)
 ![Captura de tela 2024-11-29 174628](https://github.com/user-attachments/assets/032fb234-5cf6-479e-aed5-0da9501ac93a)
-[Uploading WhatsApp.html…]()
+
 
 # Prova 
 ![Captura de tela 2024-11-28 225006](https://github.com/user-attachments/assets/9607d08f-6ba6-4280-a33a-368f7f2981a0)
